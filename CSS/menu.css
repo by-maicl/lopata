@@ -1,0 +1,85 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+a:visited {
+  color: white;
+}
+font {
+  font-family: Nunito;
+}
+.butt {
+  display: block;
+  height: 38px;
+  width: auto;
+  text-decoration: none;
+  border-radius: 7px;
+  margin: 0 auto;
+  font-family: Nunito;
+  color: white;
+  font-size: 21px;
+  text-align: left;
+  padding-right: 10px;
+}
+.butt:hover {
+  background: #212421;
+}
+#text {
+  padding-left: 5px;
+  text-align: left;
+  padding-top: 0.1px;
+  padding-bottom: 30px;
+}
+.panel {
+  display: block;
+  height: 38px;
+  width: auto;
+  text-decoration: none;
+  border-radius: 10px;
+  margin: 0 auto;
+  font-family: Nunito;
+  color: white;
+  font-size: 21px;
+  text-align: left;
+  padding-right: 10px;
+}
+.panel:hover {
+  background: #212421;
+}
+.menu {
+  width: 240px;
+  height: 100%;
+  padding-left: 360px;
+  display: block;
+  float: left;
+}
+i {
+  color: #4e9f3d;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+.content {
+  display: block;
+  margin-left: 605px;
+  margin-top: 15px;
+  margin-right: 360px;
+}
+::-webkit-scrollbar {
+  background-color: #191a19;
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #212421;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #4e9f3d;
+}
+#invisibleInput {
+  display: none;
+}

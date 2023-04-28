@@ -1,0 +1,50 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+summary {
+  color: white;
+}
+summary:hover {
+  color: #828282;
+  cursor: pointer;
+}
+.form {
+  background: #212421;
+  width: 600px;
+  height: auto;
+  padding: 15px;
+  border-radius: 10px;
+}
+.pole1 {
+  width: 95%;
+  height: auto;
+  padding: 15px;
+  background-color: #191a19;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+}
+.pole1:focus {
+  outline: 2px solid #4e9f3d;
+}
+.OK {
+  background-color: #4e9f3d;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  float: right;
+}
+.OK:hover {
+  background-color: #1e5128;
+  cursor: pointer;
+}
+.textAdm:hover{
+  color: #828282;
+}

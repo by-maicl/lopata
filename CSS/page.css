@@ -1,0 +1,46 @@
+.profile {
+  width: 100%;
+  height: auto;
+  background-color: #212421;
+  border-radius: 10px;
+  padding: 15px;
+}
+.buttProf {
+  width: auto;
+  font-size: 18px;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #191a19;
+  border-radius: 10px;
+  margin-left: 5px;
+  float: right;
+}
+.buttProf:hover {
+  background-color: #1e5128;
+  cursor: pointer;
+}
+.bankAccs {
+  width: 20%;
+  height: auto;
+  background-color: #212421;
+  border-radius: 10px;
+  padding: 15px;
+}
+.cardDes {
+  border-radius: 10px;
+}
+.cardNumb {
+  position: absolute;
+  margin-left: -3%;
+  margin-top: 4%;
+}
+.cardName {
+  position: absolute;
+  padding-top: 25px;
+  padding-left: 10px;
+}
+.posts {
+  float: right;
+  width: 80%;
+}
